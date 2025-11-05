@@ -10,14 +10,5 @@ __pycache__/
 *.pid
 *.pid.lock
 *.lock
-<<<<<<< HEAD
-study-guides/
-=======
 
 study-guides/
-<<<<<<< HEAD
-
-lessons-solved/
->>>>>>> fa86ec7 (update gitignore)
-=======
->>>>>>> 44270b3 (update gitignore)
