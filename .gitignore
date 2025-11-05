@@ -10,4 +10,11 @@ __pycache__/
 *.pid
 *.pid.lock
 *.lock
+<<<<<<< HEAD
 study-guides/
+=======
+
+study-guides/
+
+lessons-solved/
+>>>>>>> fa86ec7 (update gitignore)
