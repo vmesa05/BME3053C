@@ -13,6 +13,7 @@ COPY requirements.txt /tmp/requirements.txt
 
 RUN apt-get update && apt-get install -y \
     python3 python3-pip \
+    python-is-python3 \
     python3-cairo python3-gi \
     && pip3 install --upgrade pip setuptools wheel \
     && pip3 install --no-cache-dir -r /tmp/requirements.txt \
